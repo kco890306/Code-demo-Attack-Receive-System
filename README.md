@@ -1,8 +1,9 @@
 # Code-demo-Attack-Receive-System
+Code Demo: Attack & Receive System (Combat Framework)
 A combat Damage &amp; Buff System for Unity. Data-driven, with dynamic damage calculation, and an extensible buff pipeline
 
 
-Code Demo: Attack & Receive System (Combat Framework)
+
 這是一個為 Unity 遊戲開發設計的核心戰鬥傷害系統範例。本系統採用「數據驅動」與「邏輯解耦」的設計模式，將攻擊行為（Attack）與傷害接收（Receive）徹底分離。
 
 在本系統中，AttackData 扮演了傳遞資訊的「信使」角色。這種設計允許開發者：
